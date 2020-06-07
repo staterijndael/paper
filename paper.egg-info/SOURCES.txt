@@ -1,0 +1,7 @@
+setup.py
+paper.egg-info/PKG-INFO
+paper.egg-info/SOURCES.txt
+paper.egg-info/dependency_links.txt
+paper.egg-info/entry_points.txt
+paper.egg-info/requires.txt
+paper.egg-info/top_level.txt
